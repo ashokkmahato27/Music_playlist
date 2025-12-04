@@ -55,8 +55,8 @@ playlist.play_next()
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dcb9dfef-6e43-4e9b-83a5-00f3bd2d4bd9" />
 
 #  Song Types
-| Type |	Storage |	Play Method |
-| --- | --- |
+| Type | Storage |	Play Method |
+| --- | --- | --- |
 | LocalSong |	File | path	Plays from local file |
 | OnlineSong |	URL	| Streams from internet |
 
